@@ -8,9 +8,7 @@
 
 :octocat: Checkout my <a href="https://joshuaminja.ml" target="_blank">portfolio</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaminja&layout=compact)](https://github.com/joshuaminja/github-readme-stats)
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/joshuaminja">
   <img width="600px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshuaminja&show_icons=true&include_all_commits=true&count_private=true"/>
   <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=joshuaminja">
