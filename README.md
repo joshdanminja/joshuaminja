@@ -8,6 +8,6 @@
 
 :octocat: Checkout my <a href="https://joshuaminja.ml" target="_blank">portfolio</a>
 
-[![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaminja&show_icons=true&count_private=true)](https://github.com/joshuaminja/github-readme-stats) 
+[![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuaminja&show_icons=true)](https://github.com/joshuaminja/github-readme-stats) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaminja&layout=compact)](https://github.com/joshuaminja/github-readme-stats)
