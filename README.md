@@ -6,6 +6,8 @@
 
 ✨ React | Django | Laravel | Codeigniter | Flutter | Vue.js | Node.js
 
+### GitHub Analytics
+
 <p align="center">
   <a href="https://github.com/joshuaminja">
   <img width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshuaminja&show_icons=true&include_all_commits=true&count_private=true&title_color=19d72f&icon_color=19d72f&text_color=000000&bg_color=ffffff"/>
@@ -15,6 +17,7 @@
 </p>
 
 ### About Me
+
 <p align="left">
     <a href="mailto:joshuaminja5@gmail.com">G-Mail</a> &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joshuaminja">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;
