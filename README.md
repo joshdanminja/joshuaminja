@@ -16,7 +16,7 @@
   <a href="https://github.com/joshuaminja"><img alt="Joshua Daniel Minja's Activity Graph" width="1200px" src="https://activity-graph.herokuapp.com/graph?username=joshuaminja&bg_color=ffffff&color=000000&line=19d72f&point=000000&area=true&area_color=19d72f&hide_border=true"/></a>
 </p>
 
-### About Me
+### Contact Me
 
 <p align="left">
     <a href="mailto:joshuaminja5@gmail.com">G-Mail</a> &nbsp;&nbsp;&nbsp;&nbsp;
